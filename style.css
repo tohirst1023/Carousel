@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 102vh; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.swiper {
+  width: 600px;
+  height: 500px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+img {
+  width: 90%;
+}
